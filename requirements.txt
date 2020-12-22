@@ -1,0 +1,11 @@
+#Django
+asgiref==3.3.1
+django==3.1.4
+pytz==2020.4
+sqlparse==0.4.1
+
+# Django Rest Framework
+django-filter==2.4.0
+djangorestframework==3.12.2
+markdown==3.3.3
+
